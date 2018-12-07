@@ -1,0 +1,159 @@
+body {
+    background: white;
+    margin: 0 auto;
+    
+}
+.container {
+    background:beige ;
+    margin: 0 auto;
+    padding: 100px;
+    width: 780px;
+    box-shadow: 0px 9px 13px 5px;
+    
+}
+h1 {
+    text-align: center;
+    
+}
+
+.header {
+    padding: 5px 0px 40px 40px;
+    
+    text-decoration: none;
+    text-align: center;
+    
+    
+    
+
+}
+
+.menu {
+    background: lightblue;
+    padding: 6px 0 6px 40px;
+    
+}
+.menu a {
+    color:beige;
+    text-decoration: none;
+    font-family: fantasy;
+    font-size: 20px;
+    
+    
+}
+.menu a:hover {
+    color: #FFC107;
+    
+}
+h2 {
+    margin:0px;
+    color: green;
+    font-size: 24px;
+    font-family:fantasy;
+    font-weight: normal;
+    padding:35px 0 0 0;
+    text-align: center;
+    
+    
+    
+    
+    
+}
+
+.main {
+    margin: 0 100px 0 100px;
+    padding: 35px 40px 30px 0;
+    color:black;
+    font-size: 13px;
+    font-family: fantasy;
+    line-height: normal;
+    text-emphasis:justify;
+    
+    
+}
+
+footer {
+    font-size: 12px;
+    padding: 6px 40px 6px 40px;
+    
+    font-family: sans-serif;
+    text-decoration:left;
+}
+
+
+footer a {
+    text-decoration: none;
+    color:black;
+}
+
+.link-title {
+    text-decoration:none;
+    font-size:24px;
+    font-family: fantasy;
+
+}
+
+#image {
+    width: 100%;
+    
+}
+
+/**********************  About page  *******************/
+
+
+
+#image-about #image img {
+    width: 60%;
+float: left;
+    margin-bottom: 20px;
+
+
+}
+#image-about #profile-info {
+    
+    float:right;
+    width: 30%;
+    margin: 5px;
+}
+
+.description {
+    clear: both;
+    
+}
+
+
+#contact #form {
+    
+    width: 500px;
+   
+    padding: 10px 17px 10px 10px;
+    margin: 0 auto;
+    box-shadow: 0px 9px 13px 5px;
+    border-radius: 5px;
+}
+
+.contact-heading {
+    font-size: 30px;
+    
+}
+
+#contact #form input {
+    width: 100%;
+    border-radius:5px;
+    
+}
+
+#contact #form #submit {
+    
+    background: lightblue;
+    width: 20% ;
+    
+    
+}
+
+
+
+
+
+
+
+
